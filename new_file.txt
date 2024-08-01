@@ -5,3 +5,5 @@ This repo consists of test files to explore github.
 This is edited in github UI
 
 This line is added from local machine
+
+Now testing shortcut
