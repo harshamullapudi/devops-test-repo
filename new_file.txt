@@ -6,6 +6,6 @@ This is edited in github UI
 
 This line is added from local machine
 
-Now testing shortcut, shorcut tested and working fine
+Now testing shortcut.
 
 new line added
